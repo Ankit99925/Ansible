@@ -57,3 +57,5 @@ The last one prints every variable resolved for a host — the quickest way to
 find out why a template rendered the wrong value.
 
 `-K` asks for the sudo password. `-b` means become, that is, run as root.
+
+> The lab playbooks moved to the **opnsense-iac-lab** repo (history included).
